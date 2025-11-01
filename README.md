@@ -14,6 +14,14 @@ The **WUDataset** is released under the [MIT License](https://opensource.org/lic
 
 You can access the dataset here: [WUDataset on Google Drive](https://drive.google.com/file/d/19ZmFYXffd9uNU4un0gZBnqNpNPXr3nFt/view?usp=sharing)
 
+## Code and Pre-trained Models
+
+The code and pre-trained models will be released soon...
+
+## Arxiv Preprint Version
+
+https://arxiv.org/abs/2508.06053
+
 ## Usage
 
 1. Clone or download the dataset files.
