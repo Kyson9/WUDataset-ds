@@ -26,5 +26,5 @@ You can access the dataset here: [WUDataset on Google Drive](https://drive.googl
      title = {WUDataset: A Neural Pedestrian Inertial Navigation Corpus},
      year = {2025},
      note = {MIT License},
-     url = {INSERT-GOOGLE-DRIVE-LINK-HERE}
+     url = {https://drive.google.com/file/d/19ZmFYXffd9uNU4un0gZBnqNpNPXr3nFt/view?usp=sharing}
    }
