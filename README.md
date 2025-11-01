@@ -1,2 +1,5 @@
 # WUDataset-ds
 WUDataset, a neural pedestrian inertial navigation corpus collected with a Google Pixel 6A IMU (200 Hz), a Vicon optical system (100 Hz), and a LiDAR-SLAM rig (200 Hz) synchronized via a custom Android app.
+
+The data span an 8 m×20 m Vicon-tracked indoor space and diverse outdoor campus scenes reconstructed by SLAM. WUDataset contains 120 trajectories from 28 participants (total distance >40 km) covering slow walk, normal walk, and running, with varied device placements (hand-held, shoulder/arm, front/back pockets, backpack, handbag, swinging arm, chest pocket, etc.). This dataset provides realistic, multi-scene, multi-carry conditions for assessing any-scale sequence modeling and uncertainty-aware inertial localization. Due to privacy considerations and institutional data sharing policies, we are only releasing a subset of the WUDataset. The released portion still spans all movement types, device placements, and both indoor and outdoor scenes, ensuring it is representative and sufficient for benchmarking and reproduction. 
+
